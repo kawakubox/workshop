@@ -1,4 +1,3 @@
-# A sample Gemfile
-source "https://rubygems.org"
+source 'http://rubygems.org'
 
-# gem "rails"
+gem 'mysql2'
